@@ -15,7 +15,7 @@ def main():
 
     os.makedirs(results_dir, exist_ok=True)
     os.makedirs(saved_model_dir, exist_ok=True)
-2
+
     X, y = load_dataset(
         with_mask_path=os.path.join(data_dir, "with_mask"),
         without_mask_path=os.path.join(data_dir, "without_mask")
