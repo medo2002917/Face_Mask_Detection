@@ -104,7 +104,7 @@ Early stopping is used to avoid overfitting.
 
 👨‍🎓 Course Information
 
-Course: CS417 – Computer Vision
+Course: CS417 – Neural Network
 Submission Type: CNN Project
 
 
